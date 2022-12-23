@@ -5,3 +5,4 @@ export { default as Arrived } from './Arrived';
 export { default as Clients } from './Clients';
 export { default as AsideMenu } from './AsideMenu';
 export { default as Footer } from './Footer';
+export { default as ArrivedItem } from './ArrivedItem';
